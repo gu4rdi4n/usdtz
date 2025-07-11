@@ -1,0 +1,12 @@
+{
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x2e56A289b9e9A01540433b237066f73CFCc9289A",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/binance/assets/USDT/logo.png"
+    }
+  ]
+}
